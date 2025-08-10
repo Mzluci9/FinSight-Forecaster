@@ -4,3 +4,6 @@ numpy
 matplotlib
 seaborn
 statsmodels
+pmdarima          # For auto_arima
+scikit-learn      # For metrics
+tensorflow        # For LSTM
